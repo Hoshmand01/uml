@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T00:33:31.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="qLZjTbdo1V-Zp_1Nn5Ju" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T00:34:24.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="pPETgd4hkxiK05dNEwZS" version="24.6.4" type="github">
   <diagram name="Page-1" id="z5-CBBnIigoQPyKpzh3y">
-    <mxGraphModel dx="3459" dy="925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3170" dy="782" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,13 +216,13 @@
           <mxGeometry x="1050" y="59" width="198.87" height="326" as="geometry" />
         </mxCell>
         <mxCell id="mwouuTTg1p4LpOOELwbf-56" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=107;tabHeight=25;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="mwouuTTg1p4LpOOELwbf-55">
-          <mxGeometry width="198.87" height="326" as="geometry" />
+          <mxGeometry x="46" width="152.87" height="326" as="geometry" />
         </mxCell>
         <mxCell id="mwouuTTg1p4LpOOELwbf-57" value="Sensor Package" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mwouuTTg1p4LpOOELwbf-55">
-          <mxGeometry x="-0.12165803108808326" y="-1" width="106" height="26" as="geometry" />
+          <mxGeometry x="46.87834196891192" y="-1" width="106" height="26" as="geometry" />
         </mxCell>
         <mxCell id="mwouuTTg1p4LpOOELwbf-47" value="MoistureSensor&amp;nbsp;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=41;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="mwouuTTg1p4LpOOELwbf-55">
-          <mxGeometry x="33.93" y="47" width="131" height="76" as="geometry" />
+          <mxGeometry x="56.93" y="47" width="131" height="76" as="geometry" />
         </mxCell>
         <mxCell id="mwouuTTg1p4LpOOELwbf-48" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="mwouuTTg1p4LpOOELwbf-47">
           <mxGeometry y="41" width="131" height="8" as="geometry" />
@@ -231,10 +231,31 @@
           <mxGeometry y="49" width="131" height="27" as="geometry" />
         </mxCell>
         <mxCell id="mwouuTTg1p4LpOOELwbf-59" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IMoistureSensor&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="mwouuTTg1p4LpOOELwbf-55">
-          <mxGeometry x="33.93" y="214" width="130.57" height="94" as="geometry" />
+          <mxGeometry x="57.93" y="214" width="130.57" height="94" as="geometry" />
         </mxCell>
         <mxCell id="mwouuTTg1p4LpOOELwbf-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=0;endSize=10;" edge="1" parent="mwouuTTg1p4LpOOELwbf-5" source="mwouuTTg1p4LpOOELwbf-59" target="mwouuTTg1p4LpOOELwbf-50">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mwouuTTg1p4LpOOELwbf-66" value="" style="group" vertex="1" connectable="0" parent="mwouuTTg1p4LpOOELwbf-5">
+          <mxGeometry x="243" y="182" width="198.87" height="326" as="geometry" />
+        </mxCell>
+        <mxCell id="mwouuTTg1p4LpOOELwbf-67" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=107;tabHeight=25;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="mwouuTTg1p4LpOOELwbf-66">
+          <mxGeometry width="198.87" height="326" as="geometry" />
+        </mxCell>
+        <mxCell id="mwouuTTg1p4LpOOELwbf-68" value="Sensor Package" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mwouuTTg1p4LpOOELwbf-66">
+          <mxGeometry x="-0.12165803108808326" y="-1" width="106" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="mwouuTTg1p4LpOOELwbf-69" value="MoistureSensor&amp;nbsp;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=41;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="mwouuTTg1p4LpOOELwbf-66">
+          <mxGeometry x="33.93" y="47" width="131" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="mwouuTTg1p4LpOOELwbf-70" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="mwouuTTg1p4LpOOELwbf-69">
+          <mxGeometry y="41" width="131" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="mwouuTTg1p4LpOOELwbf-71" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;+measureMoisture()&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="mwouuTTg1p4LpOOELwbf-69">
+          <mxGeometry y="49" width="131" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="mwouuTTg1p4LpOOELwbf-72" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IMoistureSensor&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="mwouuTTg1p4LpOOELwbf-66">
+          <mxGeometry x="33.93" y="214" width="130.57" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
