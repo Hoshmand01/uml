@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T00:14:50.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="6-lP8llvTZ1TkODb6S2n" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T00:15:34.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="9WF6JiagUuEOC6W72QlG" version="24.6.4" type="github">
   <diagram name="Page-1" id="z5-CBBnIigoQPyKpzh3y">
-    <mxGraphModel dx="4624" dy="1252" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4414" dy="1148" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,8 +165,8 @@
         <mxCell id="mwouuTTg1p4LpOOELwbf-9" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=107;tabHeight=25;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="mwouuTTg1p4LpOOELwbf-8">
           <mxGeometry width="198.87" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="mwouuTTg1p4LpOOELwbf-10" value="Sensore Package" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mwouuTTg1p4LpOOELwbf-8">
-          <mxGeometry x="-4.121658031088083" width="113" height="26" as="geometry" />
+        <mxCell id="mwouuTTg1p4LpOOELwbf-10" value="Controller Package" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mwouuTTg1p4LpOOELwbf-8">
+          <mxGeometry x="-7.121658031088083" width="120" height="26" as="geometry" />
         </mxCell>
         <mxCell id="mwouuTTg1p4LpOOELwbf-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;MoistureSenso&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="mwouuTTg1p4LpOOELwbf-8">
           <mxGeometry x="17.001839378238344" y="38.87096774193549" width="164.86632124352332" height="44.03225806451613" as="geometry" />
